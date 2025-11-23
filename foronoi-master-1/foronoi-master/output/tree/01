@@ -1,0 +1,8 @@
+// Binary Tree
+digraph {
+	"557e79cd-608c-4b5a-a547-167c2862dd68" [label="0,1"]
+	"b463532b-e315-4351-8894-4adc37896986" [label=0]
+	"557e79cd-608c-4b5a-a547-167c2862dd68" -> "b463532b-e315-4351-8894-4adc37896986"
+	"b3de883b-bfb3-4c5f-ac66-a611a4797f9e" [label=1]
+	"557e79cd-608c-4b5a-a547-167c2862dd68" -> "b3de883b-bfb3-4c5f-ac66-a611a4797f9e"
+}

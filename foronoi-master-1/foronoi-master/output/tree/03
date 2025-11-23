@@ -1,0 +1,12 @@
+// Binary Tree
+digraph {
+	"24bb8010-d2e8-46e2-90d8-94898d9abce8" [label="2,1"]
+	"8fd4c42d-a530-4f62-b619-d450994a44cc" [label="0,2"]
+	"24bb8010-d2e8-46e2-90d8-94898d9abce8" -> "8fd4c42d-a530-4f62-b619-d450994a44cc"
+	"8dc05483-3a2f-425d-a09f-0f4febbda93a" [label=0]
+	"8fd4c42d-a530-4f62-b619-d450994a44cc" -> "8dc05483-3a2f-425d-a09f-0f4febbda93a"
+	"cb7799ff-c7f0-42d2-8c20-cbc999536cf3" [label=2]
+	"8fd4c42d-a530-4f62-b619-d450994a44cc" -> "cb7799ff-c7f0-42d2-8c20-cbc999536cf3"
+	"72a09aa9-2556-4e50-b943-6b9e20a50412" [label=1]
+	"24bb8010-d2e8-46e2-90d8-94898d9abce8" -> "72a09aa9-2556-4e50-b943-6b9e20a50412"
+}

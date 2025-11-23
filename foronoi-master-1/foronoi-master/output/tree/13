@@ -1,0 +1,20 @@
+// Binary Tree
+digraph {
+	"dbcd2c38-1e2d-484c-91c4-39df1117006c" [label="5,4"]
+	"23b8c356-9ece-4ac9-8e13-707ac727b96d" [label="0,5"]
+	"dbcd2c38-1e2d-484c-91c4-39df1117006c" -> "23b8c356-9ece-4ac9-8e13-707ac727b96d"
+	"4603cf10-0306-4b18-9bb6-154101475c5b" [label=0]
+	"23b8c356-9ece-4ac9-8e13-707ac727b96d" -> "4603cf10-0306-4b18-9bb6-154101475c5b"
+	"8290a8f4-a972-495a-8130-bc449afe2b55" [label=5]
+	"23b8c356-9ece-4ac9-8e13-707ac727b96d" -> "8290a8f4-a972-495a-8130-bc449afe2b55"
+	"6e60d33f-4790-4752-b5fb-2ba034bb2357" [label="6,1"]
+	"dbcd2c38-1e2d-484c-91c4-39df1117006c" -> "6e60d33f-4790-4752-b5fb-2ba034bb2357"
+	"30fa2bd5-0a79-40db-b1fb-8e05e48097de" [label="4,6"]
+	"6e60d33f-4790-4752-b5fb-2ba034bb2357" -> "30fa2bd5-0a79-40db-b1fb-8e05e48097de"
+	"50560cde-b237-42ba-8485-c74e4526c17d" [label=4]
+	"30fa2bd5-0a79-40db-b1fb-8e05e48097de" -> "50560cde-b237-42ba-8485-c74e4526c17d"
+	"845a2afe-ee9d-43d5-b1ab-1dbb7f13e6d4" [label=6]
+	"30fa2bd5-0a79-40db-b1fb-8e05e48097de" -> "845a2afe-ee9d-43d5-b1ab-1dbb7f13e6d4"
+	"37a6d96a-6567-407a-9b01-d1b60ded3688" [label=1]
+	"6e60d33f-4790-4752-b5fb-2ba034bb2357" -> "37a6d96a-6567-407a-9b01-d1b60ded3688"
+}
